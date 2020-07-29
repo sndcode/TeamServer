@@ -1,5 +1,5 @@
 
-![Alt text](https://imgur.com/a/wW32G5s " ")
+![Alt text](https://imgur.com/VCQbHsJ " ")
 This is a quickly made POC (Proof of conept) software to manage one week for workers and their tasks.
 Features : 
 - Update System
