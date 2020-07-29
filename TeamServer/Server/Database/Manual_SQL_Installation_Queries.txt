@@ -1,0 +1,13 @@
+CREATE TABLE `termine_XXX` (
+  `day` varchar(20) NOT NULL PRIMARY KEY ,
+  `user` VARCHAR( 256 ) NOT NULL ,
+  `context` VARCHAR( 256 ) NOT NULL
+) ENGINE = MYISAM ;
+
+INSERT INTO `termine_XXX` (`day`,`user`,`context`)
+VALUES 
+('Montag', 'maurice', 'test'),
+('Dienstag', 'maurice', 'test'), 
+('Mittwoch', 'maurice', 'test'),
+('Donnerstag', 'maurice', 'test'),
+('Freitag', 'maurice', 'test');

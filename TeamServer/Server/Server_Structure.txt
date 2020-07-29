@@ -1,0 +1,5 @@
+Install the database dump and copy over the php files.
+complete folder installation structure as follows : 
+
+scripts : ROOT/teamserver/PHPSCRIPTS.PHP
+updates : ROOT/teamserver/updates/latest.ini
